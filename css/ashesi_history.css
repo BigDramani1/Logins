@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding:0
+}
+/* creatiing the position, color and font for the mission statement */
+.text1{
+    position: absolute;
+    top:60%;
+    left:20%;
+    text-align: center;
+    font-size: 20px;
+    padding:40px;
+    color:white;
+
+}
+/* creatiing the position, color and font for the background of the school */
+.text2{
+    position: absolute;
+    top:85%;
+    font-size: 20px;
+    padding:40px;
+    color:white;    
+
+}
+/* creatiing the position, the height and width for the image */
+.pic{
+    position: absolute;
+    left:20%; 
+    margin:2px;
+    float: left;
+   
+}
+.pic img{
+    width:800px;
+    height:400px;
+}
+/* creatiing the position, color and font for the header for the background of the school*/
+.h1{
+   color:black;
+    text-align:center;
+    padding: 10px;
+    left:45%;
+}
+/* creatiing a color for the page */
+body{
+    background:#7579ff;
+}

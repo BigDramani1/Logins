@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+  }
+    /* creatiing a position for the table and the type of font */
+  .table1 {
+      position:absolute;
+      left:16.5%;
+      top:10%;
+      font-family: arial, sans-serif;
+      border-collapse: collapse;
+      padding:10px;
+  
+    }
+     /* Positioning the inside table */
+    td, th {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+    }
+    /* creatiing a position for the  second table and the type of font */
+    .table2{
+        position:absolute;
+        left:14%;
+        top:60%;
+        padding:40px;
+        font-family: arial, sans-serif; 
+    }
+     /* creatiing a position for the header and color */
+    .h2{
+      font-size:30px;
+      position:absolute;
+      left:20%;
+      top:1%;
+      color:#b224ef;
+      
+    }
+  

@@ -1,0 +1,94 @@
+/* Setting the width and making the object to fit for each card */
+.card-img-top{
+    height:200px;
+    object-fit: cover;
+}
+/* adding a color to a card title */
+.card-title{
+    color:mediumorchid;
+}
+
+
+.container1{
+    
+    max-width:1200px;
+    margin: auto;
+    overflow: auto;
+}
+/* placing the positions for each add button in each card */
+
+.add{
+    padding: 14px 20px;
+    border: none;
+    cursor: pointer;
+    width: 3%;
+    position:absolute;
+    top:85%;
+    left:76%;
+}
+.add3{
+    padding: 14px 20px;
+    border: none;
+    cursor: pointer;
+    width: 3%;
+    position:absolute;
+    top:78%;
+    left:76%;
+}
+
+.add1{
+    padding: 14px 20px;
+    border: none;
+    cursor: pointer;
+    width: 3%;
+    position:absolute;
+    top:86%;
+    left:76%;
+}
+.add2{
+    padding: 14px 20px;
+    border: none;
+    cursor: pointer;
+    width: 3%;
+    position:absolute;
+    top:86%;
+    left:76%;
+}
+
+.add5{
+    padding: 14px 20px;
+    border: none;
+    cursor: pointer;
+    width: 3%;
+    position:absolute;
+    top:86%;
+    left:76%;
+}
+.add5{
+    padding: 14px 20px;
+    border: none;
+    cursor: pointer;
+    width: 3%;
+    position:absolute;
+    top:86%;
+    left:76%;
+}
+.add6{
+    padding: 14px 20px;
+    border: none;
+    cursor: pointer;
+    width: 3%;
+    position:absolute;
+    top:78%;
+    left:76%;
+}
+
+.delete{
+    padding: 14px 20px;
+    border: none;
+    cursor: pointer;
+    width: 3%;
+    position:absolute;
+    top:78%;
+    left:50%;
+}

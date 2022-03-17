@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: "Nunito", sans-serif;
+}
+.text1{
+    position:absolute;
+    left:30%;
+    top:40%;
+    font-size:30px;
+    
+   
+}
+.text2{
+    position:absolute;
+    top:70%;
+    left:30%;
+    font-size:20px;
+    
+}

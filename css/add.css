@@ -1,0 +1,163 @@
+/* Making the + sign purple and placing it in the middle   */
+.text{
+    font-size:20px;
+    text-align: center;
+    color:mediumorchid;
+}
+
+/* Float cancel and delete buttons and add an equal width */
+.cancelbtn, .addbtn {
+  float: left;
+  width: 50%;
+}
+/* Adding a color to the add button */
+.addbtn {
+  height:40px;
+  background-color: #f44336;
+}
+
+/* Adding a color to the cancel button */
+.cancelbtn {
+    height:40px;
+  background-color: #ccc;
+  color: black;
+}
+
+/* Float cancel and add width */
+.cancelbtn, .addbtn2 {
+  float: left;
+  width: 50%;
+}
+
+/* Adding a color to the second add button */
+.addbtn2 {
+  height:40px;
+  background-color: #f44336;
+}
+/* Float cancel and  second add width */
+.cancelbtn, .addbtn3 {
+  float: left;
+  width: 50%;
+}
+
+/* Adding a color to the third add button */
+.addbtn3 {
+  height:40px;
+  background-color: #f44336;
+}
+/* Float cancel and third add width */
+.cancelbtn, .addbtn4 {
+  float: left;
+  width: 50%;
+}
+
+/* Adding a color to the  fourth add  button */
+.addbtn4 {
+  height:40px;
+  background-color: #f44336;
+}
+/* Float cancel and  fourth add width */
+.cancelbtn, .addbtn5 {
+  float: left;
+  width: 50%;
+}
+
+/* Adding a color to the fifth add button */
+.addbtn5 {
+  height:40px;
+  background-color: #f44336;
+}
+/* Float cancel and fifth add width */
+.cancelbtn, .addbtn6 {
+  float: left;
+  width: 50%;
+}
+
+/* Adding a color to the sixth add button */
+.addbtn6 {
+  height:40px;
+  background-color: #f44336;
+}
+/* Float cancel and sixth add width */
+.cancelbtn, .addbtn7 {
+  float: left;
+  width: 50%;
+}
+
+/* Adding a color to the seventh add button */
+.addbtn7 {
+  height:40px;
+  background-color: #f44336;
+}
+/* Float cancel and seventh add width */
+.cancelbtn, .addbtn8 {
+  float: left;
+  width: 50%;
+}
+
+/* Adding a color to the eighth add button */
+.addbtn8 {
+  height:40px;
+  background-color: #f44336;
+}
+
+/* Add padding and center-align text to the container */
+.container {
+  padding: 16px;
+  text-align: center;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: #474e5d;
+  padding-top: 50px;
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #fefefe;
+  margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* Style the horizontal ruler */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+ 
+/* The Modal Close Button and hovering color (x) */
+.close {
+  position: absolute;
+  right: 35px;
+  top: 15px;
+  font-size: 40px;
+  font-weight: bold;
+  color: #f1f1f1;
+}
+
+.close:hover{
+    color:green;
+}
+.close:focus {
+  color: #f44336;
+  cursor: pointer;
+}
+
+/* Clear floats */
+.clearfix::after {
+   
+  content: "";
+  clear: both;
+  display: table;
+}
+
